@@ -1,0 +1,4 @@
+name = "Alexander Fred Ojala"
+SID = "0123456789"
+email = "afo@berkely.edu"
+github_name = "alexanderfo"
